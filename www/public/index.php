@@ -10,7 +10,7 @@
 <body>
 <h1>Quiz</h1>
 <form action="result.php" method="post">
-    <label>Om peter har 5 äpplen, och tappar två, hur många har han kvar? test ver<br>    
+    <label>Om peter har 5 äpplen, och tappar två, hur många har han kvar?<br>    
         <input type="radio" name="qOne" value="sju">7<br>
         <input type="radio" name="qOne" value="tva">2<br>
         <input type="radio" name="qOne" value="tre">3<br><br>
