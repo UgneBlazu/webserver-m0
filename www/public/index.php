@@ -2,6 +2,6 @@
 <p><strong>Denna sida (index.php) skall bytas ut.</strong></p>
 
 <?php
-       echo"test test funkar???";
+       echo"formulärer eller nåt";
        
 ?>
