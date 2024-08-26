@@ -11,9 +11,9 @@
     $ansOne = $_POST['qOne'];
     $ansTwo = $_POST['qTwo'];
 
-    if($ansOne == 'php')
+    if($ansOne == 'tre')
         $points++;
-    if($ansTwo == 'js')
+    if($ansTwo == 'six')
         $points++;
 
     echo '<strong>Du fick '.$points.' av 2 möjliga</strong>';
